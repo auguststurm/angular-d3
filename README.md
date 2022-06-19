@@ -1,5 +1,11 @@
 # AngularD3
 
+## Reference
+
+This project is based on this tutorial: https://schubert.codes/angular-d3-js/
+
+## Built with Angular 14 CLI
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
 ## Development server
